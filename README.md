@@ -82,11 +82,11 @@ Heads up! We'll be using the following terminal commands in this lesson:
 >* <code style="color:red"> pwd </code> - used to print working directory
 
 <br><br><br><br>
-####Create  Directories
+#### Create  Directories
 
 >* create a directory called `testCommand`
 >* inside that, create another directory called `new-git-project`
-#####or
+##### or
 just run this command on the terminal - `mkdir -p udacity-git-course/new-git-project && cd $_`
 
 #### Git Init
@@ -96,7 +96,7 @@ Running this command creates a hidden `.git` directory. This `.git` directory is
 
 
 
-####todo:  git clone
+#### todo:  git clone
 
 
 my new repo is **mac-git-and-commandline**
